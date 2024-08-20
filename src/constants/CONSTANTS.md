@@ -1,0 +1,1 @@
+- Đây là file đại diện chứa hình ảnh, văn bản, đường link... theo funtion map()
