@@ -1,5 +1,6 @@
 - Đây là dự án React và taiwind css
 - các công cụ cần thiết:
+ + Google Font
  + các file hình ảnh
  + constant
  + trang web EmailJs
